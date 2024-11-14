@@ -1,0 +1,15 @@
+[
+  {
+    "target": {
+      "package_name": "com.renmoney.android",
+      "sha256_cert_fingerprints": [
+        "1B:40:54:B9:3E:E3:5E:CF:00:B6:B3:05:84:6E:7E:A0:A6:D8:9E:15:C0:86:CF:D1:03:B2:05:45:FE:9F:9A:96",
+        "CA:64:F1:EA:70:1F:85:DA:4E:21:78:58:2B:51:55:1A:34:8E:40:B8:C5:C9:AA:62:41:F9:8D:8C:1E:5D:76:45"
+      ],
+      "namespace": "android_app"
+    },
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ]
+  }
+]
